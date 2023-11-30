@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipta-1999&label=Profile%20views&color=0e75b6&style=flat" alt="Dipta-1999" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
+
 <p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3ix0rFmo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dmmxiwgyuzodl7yqyuca.jpeg" alt="Dipta-1999" width="100px" height="45px"/> 
   <img src="https://cdn.clever-cloud.com/uploads/2023/06/java.svg" alt="Dipta-1999" width="100px" height="45px"/> <img src="https://miro.medium.com/v2/resize:fit:1400/1*TTM5AleQfFJ-mItttJROdg.jpeg" alt="Dipta-1999" width="100px" height="45px"/> <img src="https://cloud2data.com/wp-content/uploads/2023/01/HTML-CSS-Review.png" alt="Dipta-1999" width="`40px" height="50px"/> 
   <img src="https://miro.medium.com/v2/resize:fit:783/1*Kj8Eq401fP2ecTY8r9B89Q.png" alt="Dipta-1999" width="100px" height="50px"/></p>
