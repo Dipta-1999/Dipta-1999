@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Dipta Ranjan Ghosh</h1>
 <h3 align="center">I'm a Java Full Stack Developer</h3>
-<h3 align="center">Java, Spring Boot, HTML5 CSS3, </h3>
+<h3 align="center">Java, Spring Boot, HTML5 CSS3</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipta-1999&label=Profile%20views&color=0e75b6&style=flat" alt="Dipta-1999" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dipta-1999&theme=dracula" alt="Dipta-1999" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud - AWS, GCP & DevOps - Terraform, Kubernetes, Docker, Ansible, Jenkins**
+- 🔭 I’m currently working on **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
 
-- 🌱 I’m currently learning **DevOps (Ansible, Docker, Terraform, Kubernetes) & Multi Cloud as well as Hybrid Cloud **
+- 🌱 I’m currently learning ** JavaScript, Cloud(AWS) **
 
-- 👯 I’m looking to collaborate on **[LinkedIn- Dipta Ranjan Ghosh](https://www.linkedin.com/in/ankit-pramanik-179765181/) and [youtube](https://www.youtube.com/channel/UCqZ-9yBJFBL6Di7xV6IxZ_g)**
+- 👯 I’m looking to collaborate on **[LinkedIn- Dipta Ranjan Ghosh]([https://www.linkedin.com/in/ankit-pramanik-179765181/](https://www.linkedin.com/in/dipta-ranjan-ghosh-5083b316a/))**
 
 - 🤝 I’m looking to work on **Projects**
 
-- 📝 I regularly write articles on (https://pramanik-85849.medium.com)
+- 💬 Ask me about **anything related to Java, Spring Boot, HTML5 CSS3**
 
-- 💬 Ask me about **anything related to Cloud & DevOps**
-
-- 📫 How to reach me **pramanik.85849@gmail.com**
+- 📫 How to reach me **diptaranjan123@gmail.com**
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
 ## Experience
 
-Software Engineer - DevOps @ Persistent Systems 
+Software Engineer - Java Full Stack @ Persistent Systems 
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
