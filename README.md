@@ -35,8 +35,8 @@
 ## Experience
 <table>
   <tr>
-    <th align="center">  Software Engineer - Java Full Stack Developer  </th>
-    <th align="center"><img src="https://awsmp-logos.s3.amazonaws.com/77189bb8-0d9e-4b78-994b-c33a23c23472/11c74356c803508b8b24630a70b51052.png" alt="Dipta-1999" width="`100px" height="110px"/></th>
+    <td align="center">  Software Engineer - Java Full Stack Developer  </td>
+    <td align="center"><img src="https://awsmp-logos.s3.amazonaws.com/77189bb8-0d9e-4b78-994b-c33a23c23472/11c74356c803508b8b24630a70b51052.png" alt="Dipta-1999" width="`60px" height="70px"/></td>
   </tr>
 </table>
 
