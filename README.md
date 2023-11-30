@@ -37,7 +37,7 @@ Software Engineer - Java Full Stack @ Persistent Systems
 
 <!--<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>  --> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dipta-1999&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="Dipta-1999" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dipta-1999&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="Dipta-1999" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dipta-1999&show_icons=true&locale=en" alt="Dipta-1999" /></p>
 
