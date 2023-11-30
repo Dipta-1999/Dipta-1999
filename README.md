@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:716/1*XmgfHZAOPR9Wk4gmnoPTvA.png" alt="Dipta-1999" width="150px" height="50px" /></a> </p>
 
 <p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3ix0rFmo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dmmxiwgyuzodl7yqyuca.jpeg" alt="Dipta-1999" width="140px" height="60px"/> 
-  <img src="https://cdn.clever-cloud.com/uploads/2023/06/java.svg" alt="Dipta-1999" width="60px" height="40px"/> </p>
+  <img src="https://cdn.clever-cloud.com/uploads/2023/06/java.svg" alt="Dipta-1999" width="100px" height="45px"/> </p>
 
 - 🔭 I’m currently working on **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
 
