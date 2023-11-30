@@ -34,7 +34,7 @@ Software Engineer - Java Full Stack @ Persistent Systems
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/dipta-ranjan-ghosh-5083b316a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dipta-ranjan-ghosh-5083b316a/" height="30" width="40" /></a>
 </p>
