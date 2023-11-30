@@ -13,7 +13,6 @@
 
 ## About Me
   
-<h3 align="left">About Me:</h3>
 - 🔭 I’m currently working on **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
 
 - 🌱 I’m currently learning ** JavaScript, Cloud(AWS) **
