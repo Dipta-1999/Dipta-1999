@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipta-1999&label=Profile%20views&color=0e75b6&style=flat" alt="Dipta-1999" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="Dipta-1999" /></a> </p>
+<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:716/1*XmgfHZAOPR9Wk4gmnoPTvA.png" alt="Dipta-1999" /></a> </p>
 
 - 🔭 I’m currently working on **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
 
