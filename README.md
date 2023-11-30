@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipta Ranjan Ghosh</h1>
 <h3 align="center">I'm a Java Full Stack Developer</h3>
-<h3 align="center">Java, Spring Boot, HTML5 CSS3</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipta-1999&label=Profile%20views&color=0e75b6&style=flat" alt="Dipta-1999" /> </p>
 
