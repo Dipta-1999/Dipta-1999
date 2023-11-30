@@ -26,9 +26,16 @@
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
+
+## Projects
+-  https://github.com/Dipta-1999/ShoppingCart_Project/tree/main
+-  https://github.com/Dipta-1999/SpringBootExample2
+
+
 ## Experience
 
-Software Engineer - Java Full Stack @ Persistent Systems 
+Software Engineer - Java Full Stack Developer @ Persistent Systems 
+<p><img src="https://awsmp-logos.s3.amazonaws.com/77189bb8-0d9e-4b78-994b-c33a23c23472/11c74356c803508b8b24630a70b51052.png"/></p>
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
