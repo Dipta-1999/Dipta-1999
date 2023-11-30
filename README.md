@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipta-1999&label=Profile%20views&color=0e75b6&style=flat" alt="Dipta-1999" /> </p>
 
-<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:716/1*XmgfHZAOPR9Wk4gmnoPTvA.png" alt="Dipta-1999" width="100px" height="100px" /></a> </p>
+<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:716/1*XmgfHZAOPR9Wk4gmnoPTvA.png" alt="Dipta-1999" width="300px" height="100px" /></a> </p>
 
 - 🔭 I’m currently working on **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
 
