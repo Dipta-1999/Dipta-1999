@@ -12,9 +12,9 @@
 
 ## About Me
   
-- 🔭 I’m currently working on **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
+- 🔭 I have the experience on working in **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
 
-- 🌱 I’m currently learning ** JavaScript, Cloud(AWS) **
+- 🌱 I’m currently learning **Linux** from **RedHat**
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Dipta Ranjan Ghosh]([https://www.linkedin.com/in/ankit-pramanik-179765181/](https://www.linkedin.com/in/dipta-ranjan-ghosh-5083b316a/))**
 
