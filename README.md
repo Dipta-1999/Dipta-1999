@@ -38,6 +38,10 @@
     <td align="center">  Software Engineer - Java Full Stack Developer  </td>
     <td align="center"><img src="https://awsmp-logos.s3.amazonaws.com/77189bb8-0d9e-4b78-994b-c33a23c23472/11c74356c803508b8b24630a70b51052.png" alt="Dipta-1999" width="`60px" height="70px"/></td>
   </tr>
+  <tr>
+    <td align="center">  Consultant  </td>
+    <td align="center"><img src="https://kuberox.com/wp-content/uploads/2023/06/kuberox_logo-155x86.png" alt="Dipta-1999" width="`60px" height="70px"/></td>
+  </tr>
 </table>
 
 ## Connect with Me
