@@ -46,7 +46,9 @@
 </table>
 
 ## Certification
-<table>
+
+<img src="https://media.licdn.com/dms/image/D5622AQHoPeRL8b4fZw/feedshare-shrink_2048_1536/0/1717156874233?e=1720656000&v=beta&t=ukRCNJQXLzsY3Y2UHqbazg7aL2gVlNDmg6SZaJpdokQ" alt="Dipta-1999" width="140px" height="80px" />
+<!--<table>
   <tr>
     <th align="center">Name</th>
     <th align="center">Organization</th>
@@ -57,7 +59,7 @@
     <td align="center">Red Hat</td>
     <td align="center">240-085-571</td>
   </tr>
-</table>
+</table>-->
 
 ## Connect with Me
 <p align="left">
