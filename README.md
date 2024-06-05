@@ -45,6 +45,20 @@
   </tr>
 </table>
 
+## Certification
+<table>
+  <tr>
+    <th align="center">Name</th>
+    <th align="center">Organization</th>
+    <th align="center">Certificate ID</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.licdn.com/dms/image/D5622AQHoPeRL8b4fZw/feedshare-shrink_2048_1536/0/1717156874233?e=1720656000&v=beta&t=ukRCNJQXLzsY3Y2UHqbazg7aL2gVlNDmg6SZaJpdokQ" alt="Dipta-1999" width="60px" height="70px" /></td>
+    <td align="center">Red Hat</td>
+    <td align="center">240-085-571</td>
+  </tr>
+</table>
+
 ## Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/dipta-ranjan-ghosh-5083b316a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dipta-ranjan-ghosh-5083b316a/" height="30" width="40" /></a>
