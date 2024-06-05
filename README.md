@@ -47,7 +47,7 @@
 
 ## Certification
 
-<img src="https://media.licdn.com/dms/image/D5622AQHoPeRL8b4fZw/feedshare-shrink_2048_1536/0/1717156874233?e=1720656000&v=beta&t=ukRCNJQXLzsY3Y2UHqbazg7aL2gVlNDmg6SZaJpdokQ" alt="Dipta-1999" width="140px" height="80px" />
+<img src="https://media.licdn.com/dms/image/D5622AQHoPeRL8b4fZw/feedshare-shrink_2048_1536/0/1717156874233?e=1720656000&v=beta&t=ukRCNJQXLzsY3Y2UHqbazg7aL2gVlNDmg6SZaJpdokQ" alt="Dipta-1999" width="300px" height="100px" />
 <!--<table>
   <tr>
     <th align="center">Name</th>
