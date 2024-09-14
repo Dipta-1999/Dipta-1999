@@ -48,7 +48,7 @@
 
 ## Certification
 
-<p><img src="https://drive.google.com/file/d/1VtcjAaLcp0Q4qwi-eA543pfR3pyEbYNR/view?usp=drive_link" alt="Dipta-1999" width="320px" height="250px" />
+<p><img src="https://github.com/Dipta-1999/Dipta-1999/blob/main/certificates/Red_Hat_Certified_System_Administrator__RHCSA__Badge20240531-8-fyy1vl-1.jpg" alt="Dipta-1999" width="320px" height="250px" />
 <img src="https://github.com/Dipta-1999/Dipta-1999/blob/main/certificates/java_basic%20certificate-1.jpg" alt="Dipta-1999" width="300px" height="250px" /></p>
 <!--<table>
   <tr>
