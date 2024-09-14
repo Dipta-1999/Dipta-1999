@@ -49,7 +49,7 @@
 ## Certification
 
 <p><img src="https://drive.google.com/file/d/1VtcjAaLcp0Q4qwi-eA543pfR3pyEbYNR/view?usp=drive_link" alt="Dipta-1999" width="320px" height="250px" />
-<img src="https://drive.google.com/drive/u/2/folders/17nwRaHiY-IT8BmfR_gjrGH8q7QCDcUv9.png" alt="Dipta-1999" width="300px" height="250px" /></p>
+<img src="https://drive.google.com/drive/u/2/folders/1w2IOd7Bngu-3HIAAwuo4hjrRCJvL1Qcl" alt="Dipta-1999" width="300px" height="250px" /></p>
 <!--<table>
   <tr>
     <th align="center">Name</th>
