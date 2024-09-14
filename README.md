@@ -9,7 +9,7 @@
   <img src="https://cdn.clever-cloud.com/uploads/2023/06/java.svg" alt="Dipta-1999" width="100px" height="45px"/> <img src="https://miro.medium.com/v2/resize:fit:1400/1*TTM5AleQfFJ-mItttJROdg.jpeg" alt="Dipta-1999" width="100px" height="45px"/> <img src="https://cloud2data.com/wp-content/uploads/2023/01/HTML-CSS-Review.png" alt="Dipta-1999" width="`40px" height="50px"/> 
   <img src="https://miro.medium.com/v2/resize:fit:783/1*Kj8Eq401fP2ecTY8r9B89Q.png" alt="Dipta-1999" width="100px" height="50px"/>
   <img src="https://miro.medium.com/v2/resize:fit:733/1*D4AjT789uZObZcMr5MGcug.png" alt="Dipta-1999" width="140px" height="50px"/>
-  <img src="https://www.vhv.rs/dpng/d/484-4842971_kubernetes-logo-png-kubernetes-logo-vector-transparent-png.png" alt="Dipta-1999" width="140px" height="50px"/></p>  
+  <img src="https://logodix.com/logo/996400.png" alt="Dipta-1999" width="140px" height="50px"/></p>  
 
 
 ## About Me
