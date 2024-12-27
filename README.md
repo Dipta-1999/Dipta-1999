@@ -11,7 +11,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:783/1*Kj8Eq401fP2ecTY8r9B89Q.png" alt="Dipta-1999" width="100px" height="50px"/>
   <img src="https://miro.medium.com/v2/resize:fit:733/1*D4AjT789uZObZcMr5MGcug.png" alt="Dipta-1999" width="140px" height="50px"/>
   <img src="https://logodix.com/logo/996400.png" alt="Dipta-1999" width="200px" height="50px"/>
-  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="Dipta-1999" width="100px" height="50px"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="Dipta-1999" width="50px" height="50px"/>
 </p>  
 
 
