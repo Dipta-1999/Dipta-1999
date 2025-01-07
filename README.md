@@ -17,7 +17,7 @@
 
 ## About Me
   
-- 🔭 I have the experience on working in **Backend - Java, Spring Boot - Front End - HTML5 CSS3, Angular**
+- 🔭 I have the experience on working in **Backend - Java, Spring Boot - Front End - HTML5 CSS3, React**
 
 - 🌱 I’m currently learning as well as working on **React**
 
@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking to work on **Projects**
 
-- 💬 Ask me about **anything related to Java, Spring Boot, HTML5 CSS3**
+- 💬 Ask me about **anything related to Java, Spring Boot, HTML5 CSS3, React**
 
 - 📫 How to reach me **diptaranjan123@gmail.com**
 
