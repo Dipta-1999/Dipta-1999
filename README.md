@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **diptaranjan123@gmail.com**
 
-- ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
+- ⚡ Fun fact **i am a person who always see the dream on eating Luchi Rashogolla XD**
 
 
 ## Projects
