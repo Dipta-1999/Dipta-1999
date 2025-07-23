@@ -48,6 +48,10 @@
     <td align="center">  Consultant  </td>
     <td align="center"><img src="https://kuberox.com/wp-content/uploads/2023/06/kuberox_logo-155x86.png" alt="Dipta-1999" width="`60px" height="70px"/></td>
   </tr>
+  <tr>
+    <td align="center">  Systems Engineer  </td>
+    <td align="center"><img src="https://tse3.mm.bing.net/th/id/OIP.bN5MH5e96LBoQ_Qg6FyE2QHaD4?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Dipta-1999" width="`60px" height="70px"/></td>
+  </tr>
 </table>
 
 ## Certification
