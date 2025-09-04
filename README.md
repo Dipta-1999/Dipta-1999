@@ -6,7 +6,7 @@
 ## Languages and Tools
 
 <p align="left"> 
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3ix0rFmo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dmmxiwgyuzodl7yqyuca.jpeg" alt="Dipta-1999" width="100px" height="45px"/> 
+  <img src="https://tse2.mm.bing.net/th/id/OIP.2e72B8RaCi44-AvFR2eA5AHaDe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Dipta-1999" width="100px" height="45px"/> 
   <img src="https://cdn.clever-cloud.com/uploads/2023/06/java.svg" alt="Dipta-1999" width="100px" height="45px"/> <img src="https://miro.medium.com/v2/resize:fit:1400/1*TTM5AleQfFJ-mItttJROdg.jpeg" alt="Dipta-1999" width="100px" height="45px"/> <img src="https://cloud2data.com/wp-content/uploads/2023/01/HTML-CSS-Review.png" alt="Dipta-1999" width="`40px" height="50px"/> 
   <img src="https://miro.medium.com/v2/resize:fit:783/1*Kj8Eq401fP2ecTY8r9B89Q.png" alt="Dipta-1999" width="100px" height="50px"/>
   <img src="https://miro.medium.com/v2/resize:fit:733/1*D4AjT789uZObZcMr5MGcug.png" alt="Dipta-1999" width="140px" height="50px"/>
@@ -82,6 +82,7 @@
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dipta-1999&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="Dipta-1999" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dipta-1999&show_icons=true&locale=en" alt="Dipta-1999" /></p>
+
 
 
 
